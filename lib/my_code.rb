@@ -8,5 +8,5 @@ def map(array)
   new_array
 end
 
-def reduce(array)
+def reduce(array, sp = 0)
 end
