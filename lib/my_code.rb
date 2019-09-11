@@ -9,4 +9,8 @@ def map(array)
 end
 
 def reduce(array, sv = nil)
+  i = 0 
+  new_array = []
+  while i < array.length 
+    
 end
